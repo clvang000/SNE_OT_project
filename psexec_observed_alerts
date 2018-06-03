@@ -1,0 +1,14 @@
+75    SDF Combination Alert
+53    SCAN Proxy Port 8080
+49    BAD-TRAFFIC same SRC/DST
+31    HTTP RESPONSE GZIP DECOMPRESSION FAILED
+20    POLICY VNC server response
+19    NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE
+14    ICMP Destination Unreachable Port Unreachable
+9     WEB-IIS header field buffer overflow attempt
+2     ICMP PING 
+2     ICMP PING *NIX
+2     ICMP Echo Reply
+1     WEB-MISC SSLv3 invalid data version attempt
+1     WEB-MISC SSLv3 invalid timestamp attempt
+1     Invalid Client HELLO after Server HELLO

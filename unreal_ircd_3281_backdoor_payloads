@@ -1,0 +1,12 @@
+cmd/unix/bind_perl
+cmd/unix/bind_perl_ipv6
+cmd/unix/bind_ruby
+cmd/unix/bind_ruby_ipv6
+cmd/unix/generic
+cmd/unix/reverse
+cmd/unix/reverse_bash_telnet_ssl
+cmd/unix/reverse_perl
+cmd/unix/reverse_perl_ssl
+cmd/unix/reverse_ruby
+cmd/unix/reverse_ruby_ssl
+cmd/unix/reverse_ssl_double_telnet

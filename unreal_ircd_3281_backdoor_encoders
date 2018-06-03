@@ -1,0 +1,7 @@
+cmd/echo
+cmd/generic_sh
+cmd/ifs
+cmd/perl
+cmd/printf_php_mq
+generic/eicar
+generic/none

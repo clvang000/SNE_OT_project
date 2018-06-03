@@ -1,0 +1,75 @@
+windows/dllinject/bind_hidden_ipknock_tcp  KHOST, DLL.
+windows/dllinject/bind_hidden_tcp  AHOST, DLL.
+windows/dllinject/bind_ipv6_tcp  DLL.
+windows/dllinject/bind_ipv6_tcp_uuid  DLL.
+windows/dllinject/bind_named_pipe  DLL.
+windows/dllinject/bind_nonx_tcp  DLL.
+windows/dllinject/bind_tcp  DLL.
+windows/dllinject/bind_tcp_rc4  DLL.
+windows/dllinject/bind_tcp_uuid  DLL.
+windows/dllinject/reverse_hop_http  DLL.
+windows/dllinject/reverse_http  DLL.
+windows/dllinject/reverse_http_proxy_pstore  DLL.
+windows/dllinject/reverse_ipv6_tcp  DLL.
+windows/dllinject/reverse_nonx_tcp  DLL.
+windows/dllinject/reverse_ord_tcp  DLL.
+windows/dllinject/reverse_tcp  DLL.
+windows/dllinject/reverse_tcp_allports  DLL.
+windows/dllinject/reverse_tcp_dns  DLL.
+windows/dllinject/reverse_tcp_rc4  DLL.
+windows/dllinject/reverse_tcp_rc4_dns  DLL.
+windows/dllinject/reverse_tcp_uuid  DLL.
+windows/dllinject/reverse_udp  DLL.
+windows/dllinject/reverse_winhttp  DLL.
+windows/dns_txt_query_exec  DNSZONE.
+windows/exec  CMD.
+windows/loadlibrary  DLL.
+windows/meterpreter/bind_hidden_ipknock_tcp  KHOST.
+windows/meterpreter/bind_hidden_tcp  AHOST.
+windows/patchupdllinject/bind_hidden_ipknock_tcp  KHOST, DLL.
+windows/patchupdllinject/bind_hidden_tcp  AHOST, DLL.
+windows/patchupdllinject/bind_ipv6_tcp  DLL.
+windows/patchupdllinject/bind_ipv6_tcp_uuid  DLL.
+windows/patchupdllinject/bind_named_pipe  DLL.
+windows/patchupdllinject/bind_nonx_tcp  DLL.
+windows/patchupdllinject/bind_tcp  DLL.
+windows/patchupdllinject/bind_tcp_rc4  DLL.
+windows/patchupdllinject/bind_tcp_uuid  DLL.
+windows/patchupdllinject/reverse_ipv6_tcp  DLL.
+windows/patchupdllinject/reverse_nonx_tcp  DLL.
+windows/patchupdllinject/reverse_ord_tcp  DLL.
+windows/patchupdllinject/reverse_tcp  DLL.
+windows/patchupdllinject/reverse_tcp_allports  DLL.
+windows/patchupdllinject/reverse_tcp_dns  DLL.
+windows/patchupdllinject/reverse_tcp_rc4  DLL.
+windows/patchupdllinject/reverse_tcp_rc4_dns  DLL.
+windows/patchupdllinject/reverse_tcp_uuid  DLL.
+windows/patchupdllinject/reverse_udp  DLL.
+windows/patchupmeterpreter/bind_hidden_ipknock_tcp  KHOST.
+windows/patchupmeterpreter/bind_hidden_tcp  AHOST.
+windows/shell/bind_hidden_ipknock_tcp  KHOST.
+windows/shell/bind_hidden_tcp  AHOST.
+windows/shell_hidden_bind_tcp  AHOST.
+windows/upexec/bind_hidden_ipknock_tcp  KHOST, PEXEC.
+windows/upexec/bind_hidden_tcp  AHOST, PEXEC.
+windows/upexec/bind_ipv6_tcp  PEXEC.
+windows/upexec/bind_ipv6_tcp_uuid  PEXEC.
+windows/upexec/bind_named_pipe  PEXEC.
+windows/upexec/bind_nonx_tcp  PEXEC.
+windows/upexec/bind_tcp  PEXEC.
+windows/upexec/bind_tcp_rc4  PEXEC.
+windows/upexec/bind_tcp_uuid  PEXEC.
+windows/upexec/reverse_ipv6_tcp  PEXEC.
+windows/upexec/reverse_nonx_tcp  PEXEC.
+windows/upexec/reverse_ord_tcp  PEXEC.
+windows/upexec/reverse_tcp  PEXEC.
+windows/upexec/reverse_tcp_allports  PEXEC.
+windows/upexec/reverse_tcp_dns  PEXEC.
+windows/upexec/reverse_tcp_rc4  PEXEC.
+windows/upexec/reverse_tcp_rc4_dns  PEXEC.
+windows/upexec/reverse_tcp_uuid  PEXEC.
+windows/upexec/reverse_udp  PEXEC.
+windows/vncinject/bind_hidden_ipknock_tcp  KHOST.
+windows/vncinject/bind_hidden_tcp  AHOST.
+windows/x64/exec  CMD.
+windows/x64/loadlibrary  DLL.
